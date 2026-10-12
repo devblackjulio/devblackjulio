@@ -33,7 +33,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 </td>
 <td width="40%" align="center">
-  <img src="./cat.png" alt="About" width="260" />
+  <img src="./cat.jpg" alt="About" width="260" />
 </td>
 </tr>
 </table>
