@@ -2,7 +2,7 @@
   <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Olá 👋, eu sou o Dev Black</h1>
+<h1 align="center">Olá, eu sou o Dev Black</h1>
 
 <h3 align="center">Desenvolvedor FullStack</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 ---
 
-## 🤝 Conecte-se
+##  Conecte-se
 
 <p align="center">
   <a href="https://github.com/devblackjulio">
@@ -57,7 +57,7 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,js,ts,nextjs,react,vite,nodejs,tailwind,html,css&perline=12" alt="Linguagens e frameworks" />
@@ -67,7 +67,7 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devblackjulio&theme=dark&hide_border=true&background=1c1c24" alt="GitHub Streak" />
@@ -75,7 +75,7 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 ---
 
-## 📈 Gráfico de atividade
+##  Gráfico de atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devblackjulio&theme=react-dark&hide_border=true&bg_color=1c1c24&color=ffffff&line=4f6bff&point=ffffff" alt="Gráfico de atividade" width="100%" />
