@@ -1,6 +1,6 @@
 <!-- Banner no topo: coloque sua imagem em /assets/banner.png (ou use um link) -->
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Banner" width="100%" />
+  <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, Imma Dev Black</h1>
